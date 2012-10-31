@@ -1,0 +1,5 @@
+c:\users\dsteil\documents\visual studio 2010\Projects\MvcOOPExample\MvcOOPExample\bin\MvcOOPExample.dll
+c:\users\dsteil\documents\visual studio 2010\Projects\MvcOOPExample\MvcOOPExample\bin\MvcOOPExample.pdb
+c:\users\dsteil\documents\visual studio 2010\Projects\MvcOOPExample\MvcOOPExample\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dsteil\documents\visual studio 2010\Projects\MvcOOPExample\MvcOOPExample\obj\Debug\MvcOOPExample.dll
+c:\users\dsteil\documents\visual studio 2010\Projects\MvcOOPExample\MvcOOPExample\obj\Debug\MvcOOPExample.pdb
